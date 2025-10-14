@@ -32,8 +32,14 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
     font-size: 8vmin;
-    color: #b0413e
+    color: #b0413e;
+    background-color: #ffffc7;
 }
+
+/* .box:disabled{
+    background-color: #191913;
+    color: #fff;
+} */
 
 #reset-btn{
     padding: 1rem;
